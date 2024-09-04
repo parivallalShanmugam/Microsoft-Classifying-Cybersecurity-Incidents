@@ -1,0 +1,6 @@
+artifact_location: file:///d:/guvi/Microsoft-Classifying-Cybersecurity-Incidents-1/mlruns/166628740440077833
+creation_time: 1725436906392
+experiment_id: '166628740440077833'
+last_update_time: 1725436906392
+lifecycle_stage: active
+name: microsoft_classification_test
